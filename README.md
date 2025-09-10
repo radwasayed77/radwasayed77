@@ -1,15 +1,38 @@
+<h1 align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Viga&size=36&color=18F7AC&duration=3000&pause=800&width=435&center=true&vCenter=true&random=false&lines=Hi,+I'm+Radwa+Sayed+%F0%9F%91%8B" />
+</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=radwasayed77&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=radwasayed77&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=radwasayed77&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+ 
+ 🔭 I’m currently learning at **Faculty Of Engineering Ain-Shams University**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=radwasayed77&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+ </div>
+<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=radwasayed77&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+<div align="center">
+    <br>
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,css,html" /><br>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<hr/>
+
+<h2 align="center"> Stats </h2>
+<br>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=radwasayed77&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
+<br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" align="center" src="https://nirzak-streak-stats.vercel.app/?user=radwasayed77&theme=material-palenight&hide_border=false" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwasayed77&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
+</div>
